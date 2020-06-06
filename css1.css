@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-image:url(images/bg.png);
+background-repeat:no-repeat;
+background-size:cover;
+background-color:#CCCCCC
+}
+a:link{color:#FFFFFF}
+a:visited{color:#FFFFFF
+}
+a:hover {font-weight: bold;
+text-decoration:none;
+color:#BCB7F7}
+
+h1{color:#FFFFFF;
+text-align:center;}
+
+h2{
+color: #FFFF66}
+
+
+
+
